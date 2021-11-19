@@ -1,0 +1,13 @@
+{
+  "name": "polygraf",
+  "version": "1.0.0",
+  "description": "поли-проба",
+  "keywords": [],
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
